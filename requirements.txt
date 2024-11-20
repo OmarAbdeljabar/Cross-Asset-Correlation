@@ -1,0 +1,7 @@
+pandas
+pandas_datareader
+ccxt
+numpy
+matplotlib
+ipywidgets
+jupyter
